@@ -4,7 +4,7 @@ Basic php boilerplate using slim, bootstrap, bower and grunt
 ##Install
 
 ```bash
-git clone 
+git clone https://github.com/mabujo/cadre.git
 cd cadre
 sudo npm install -g grunt-cli
 sudo npm install -g bower
